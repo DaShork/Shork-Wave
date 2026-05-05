@@ -9,8 +9,8 @@
 
 ## Tech Stack (UX/UI Design and web develop)
 
-[![Google:Gemini](https://img.shields.io/badge/Google-Gemini-yellow?style=for-the-badge&logo=google)]: For Logo Generation </br>
+![Google:Gemini](https://img.shields.io/badge/Google-Gemini-yellow?style=for-the-badge&logo=google): For Logo Generation </br>
 
-[![Figma](https://img.shields.io/badge/Google-Gemini-yellow?style=for-the-badge&logo=google)]:For UX/UI design, Idealization </br>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white):For UX/UI design, Idealization </br>
 
-[![Visual Studio Code](https://img.shields.io/badge/Google-Gemini-yellow?style=for-the-badge&logo=google)]: For web develop and demonstration </br>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic): For web develop and demonstration </br>
