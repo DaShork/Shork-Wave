@@ -1,16 +1,16 @@
-# React + Vite
+## Shork Wave
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Đây là dự án thiết kế web tổng hợp bao gồm cac tính năng như nghe nhạc, thêm playlist, pomodoro,... nhằm cung cấp trải nghiệm người dùng tối ưu mà vẫn giữ được tính thẩm mĩ của web thể hiện khả năng thiết kế UX/UI và tối ưu hệ thống. </br>
 
-Currently, two official plugins are available:
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/fBfYTrlxLQp98Lzi3kWkdN/web?node-id=666-774&t=UHzATgUVbKPSenwR-1) </br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Design System & UI Kit
+- ** Update later **
 
-## React Compiler
+## Tech Stack (UX/UI Design and web develop)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+[![Google:Gemini](https://img.shields.io/badge/Google-Gemini-yellow?style=for-the-badge&logo=google)]: For Logo Generation </br>
 
-## Expanding the ESLint configuration
+[![Figma](https://img.shields.io/badge/Google-Gemini-yellow?style=for-the-badge&logo=google)]:For UX/UI design, Idealization </br>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[![Visual Studio Code](https://img.shields.io/badge/Google-Gemini-yellow?style=for-the-badge&logo=google)]: For web develop and demonstration </br>
